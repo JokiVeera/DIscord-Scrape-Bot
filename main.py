@@ -37,4 +37,4 @@ async def on_ready():
     await bot.add_cog(GoogleScrapper(bot))
 
 
-bot.run('MTEwNTg1NzU2MTMxMzQxMTA3Mg.GDnJdg.nLIqWVnuBbmzKG1iN0jEYPnjE5Y1gDTD0x_1BY')
+bot.run('*************************************************************')
